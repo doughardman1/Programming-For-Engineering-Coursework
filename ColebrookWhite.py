@@ -1,4 +1,4 @@
-############## ECMM171 PROGRAMMING FOR ENGINEERS - ASSIGNMENT 1 - FRICTION FACTORS ##############
+############## - FRICTION FACTORS ##############
 
 import math
 import numpy as np
